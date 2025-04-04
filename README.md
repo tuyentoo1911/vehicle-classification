@@ -41,10 +41,10 @@ Usage
 Model
 The trained model files are available for download here:
 
-- Best Model: [Download best_model.keras]([https://drive.google.com/file/d/1I98KCaGYFemR9rh8gK_BzMZlxvCec3MA/view?usp=drive_link])
-- My Model: [Download my_model.keras]([https://drive.google.com/file/d/1mTjfIItv8YCtufir503tZVkDnvyvllGq/view?usp=sharing])
+- Best Model: [Download best_model.keras](https://drive.google.com/uc?id=1I98KCaGYFemR9rh8gK_BzMZlxvCec3MA&export=download)
+- My Model: [Download my Model](https://drive.google.com/uc?id=1mTjfIItv8YCtufir503tZVkDnvyvllGq&export=download)
 
 Dataset
 The dataset used for training is not included in this repository due to size constraints. However, you can download the dataset from the link below:
 
-- Vehicle Classification Dataset**: [Download Dataset]([https://drive.google.com/drive/folders/1GjKncdUXFOpREfi_FpLPq-xC91p8jrwO?usp=sharing])
+- Vehicle Classification Dataset: [Download Dataset]([https://drive.google.com/drive/folders/1GjKncdUXFOpREfi_FpLPq-xC91p8jrwO?usp=sharing])
