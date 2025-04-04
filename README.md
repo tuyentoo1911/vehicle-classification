@@ -47,4 +47,4 @@ The trained model files are available for download here:
 Dataset
 The dataset used for training is not included in this repository due to size constraints. However, you can download the dataset from the link below:
 
-- Vehicle Classification Dataset: [Download Dataset]([https://drive.google.com/drive/folders/1GjKncdUXFOpREfi_FpLPq-xC91p8jrwO?usp=sharing])
+- Vehicle Classification Dataset: [Download Dataset](https://drive.google.com/drive/folders/1GjKncdUXFOpREfi_FpLPq-xC91p8jrwO?usp=sharing)
